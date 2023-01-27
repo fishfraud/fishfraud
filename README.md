@@ -1,4 +1,4 @@
-- Hello! My names sally, but you can call me fishie. 
+- Hello! My names Allen, but you can call me fishie. 
 - I enjoy doing art, writing, coding and planning. 
 - I'm learning to speak japanese, german, and polish currently.
 - I'm learning to write HTML and LUA, as well as a few other things.
